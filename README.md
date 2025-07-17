@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- Junior at Columbia University
+- Junior at Columbia University (SEAS '27)
 - Computer Science
-- SEAS '27
 
 ### Languages & Technologies
 
